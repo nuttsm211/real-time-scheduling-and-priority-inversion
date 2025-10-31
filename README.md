@@ -3,4 +3,4 @@ a real time scheduler for sensitive clockwork of task prioritization. dont you h
 
 a small experiment in deterministic chaos disguised as blinking LEDs
 
-using : arm-cortex m3, keiluvision
+using : arm-cortex m3(board), keiluvision(ide)
