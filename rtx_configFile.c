@@ -1,4 +1,4 @@
-// problem is: configure rtx so threads/timers in this lab run predictably with minimal noise.
+// problem is: configure rtx so threads/timers run predictably with minimal noise.
 // solution: enable systick as kernel timer, set fixed tick and small stacks, keep user timers on,
 //           disable round-robin, and provide minimal idle/error hooks. the rest is left default.
 
